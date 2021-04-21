@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  creative-monitoring:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-04-21T16:00:57.280118+03:00"
+    description: A Helm chart for Kubernetes
+    digest: c6ad8f5b2633c84bd558babbe7a5c72b240fce4e68112ca110412fbbf76011cb
+    name: creative-monitoring
+    type: application
+    urls:
+    - creative-monitoring-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-04-21T16:00:57.268377+03:00"
